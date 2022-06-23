@@ -1,6 +1,6 @@
 # openvino-ocr
 
-### Download Text Detection model from 
+### Text Detection model
 #### Download in Text Detection Directory
 
 https://download.01.org/opencv/2020/openvinotoolkit/2020.1/open_model_zoo/models_bin/1/text-detection-0003/FP16/text-detection-0003.xml
