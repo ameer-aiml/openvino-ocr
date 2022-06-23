@@ -1,5 +1,7 @@
 # openvino-ocr
 
+Optical Character Recognition (OCR) with OpenVINO
+
 ### Text Detection model
 #### Download in Text Detection Directory
 
